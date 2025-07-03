@@ -1,8 +1,3 @@
-<head>
-  <meta charset="UTF-8">
-  <title>Spotify Song Success Prediction</title>
-</head>
-<body>
 
   <h1>🎵 Spotify Song Success Prediction</h1>
   <p><strong>STAT 4214 Final Project</strong><br>
